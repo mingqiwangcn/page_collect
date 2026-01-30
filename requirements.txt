@@ -1,0 +1,8 @@
+bs4
+lxml
+html5lib
+aiohttp
+pytest
+pytest-asyncio
+python-dotenv
+langdetect
