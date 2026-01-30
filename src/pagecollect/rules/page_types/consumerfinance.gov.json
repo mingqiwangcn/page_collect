@@ -1,0 +1,9 @@
+[
+    { "match": "/compliance/",        "type": "compliance" },
+    { "match": "/ask-cfpb/",        "type": "faq" },
+    { "match": "/data-research/research-reports/", "type": "report" },
+    { "match": "/data-research/", "type": "dataset" },
+    { "match": "/rules-policy/",    "type": "policy" },
+    { "match": "/enforcement/",     "type": "enforcement" },
+    { "match": "/newsroom/",        "type": "press_release" }
+]

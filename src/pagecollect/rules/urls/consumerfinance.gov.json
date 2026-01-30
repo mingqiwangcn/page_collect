@@ -1,0 +1,13 @@
+{
+    "drop_prefix" : [
+        "/es",
+        "/language/",
+        "/about-us",
+        "/privacy",
+        "/tribal",
+        "/search",
+        "/complaint",
+        "/your-story",
+        "/accessibility"
+    ]
+}
